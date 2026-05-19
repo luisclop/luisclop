@@ -26,7 +26,7 @@ At **Kaizen Lab**, infrastructure for conversational AI agents on **Amazon Bedro
 
 ### 💼 Open to
 
-- **Full-time roles** — Senior Fullstack / Cloud / AI Infrastructure (remote or Lima)
+- **Full-time roles** — Fullstack / Cloud / AI Infrastructure (remote or Lima)
 - **Selected freelance** — LLM integration, AWS serverless architecture, multi-tenant SaaS
 
 ---
