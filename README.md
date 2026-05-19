@@ -1,36 +1,18 @@
-<div align='center'>
- <h1>Hi there! 👋 I'm Luis Lopez</h1>
-</div>
+# Luis López — Software Engineer
 
-I'm a passionate Fullstack Developer based in Peru 🚀. I have a keen interest in transforming web designs into functional, captivating experiences. Continuously exploring new technologies and tools 🛠️, I strive to expand my skill set and create innovative solutions 💡.
+Fullstack · Cloud · AI · Lima, Peru
+Co-founder of [Portero Seguro](https://porteroseguro.com)
 
+I ship production systems end-to-end: serverless backends, real-time multi-tenant frontends, and the cloud/AI glue between them.
 
+---
 
-## About Me
-- 🧑‍💻 Currently working on 
-- 🌱 Learning Astro framework
-- 💡 Interested in design patterns
-- 📫 How to reach me: lclopez220@gmail.com
+### 🛠️ Stack
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,tailwind,nodejs,express,mongodb,figma)](https://skillicons.dev)
+TypeScript · React · Next.js · Python · Supabase · AWS (Lambda, Bedrock, EventBridge, SES, S3) · Terraform · PostgreSQL · GitHub Actions
 
-### Known technologies
-[![My Skills](https://skillicons.dev/icons?i=py,arduino,java,electron,vite,nextjs,bootstrap,sass,postgres,dynamodb,heroku,qt,androidstudio,postman,tauri,cs,cpp,raspberrypi&perline=10)](https://skillicons.dev)
+---
 
+### 💼 Get in touch
 
-
-<!--
-**luislopez22/luislopez22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://linkedin.com/in/luis-carlos-lopezm) · lclopez220@gmail.com · UTC-5
